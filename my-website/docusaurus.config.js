@@ -93,7 +93,7 @@ const config = {
             ],
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} MaIcer. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} MAKEREKAM. All rights reversed.`,
       },
       prism: {
         theme: lightCodeTheme,
